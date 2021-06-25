@@ -7,3 +7,5 @@ Agrego esta línea de texto desde el editor en línea para verificar el funciona
 Edición del archivo README.md en Visual Studio Code.
 
 Línea de texto para comprobar el funcionamiento de la aplicación: GitHub Desktop (el equivalente a git pull desde la línea de comandos). 
+
+Linea de texto agregada desde el editor Markdown de Typora.
