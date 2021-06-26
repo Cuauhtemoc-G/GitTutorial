@@ -10,4 +10,4 @@ Línea de texto para comprobar el funcionamiento de la aplicación: GitHub Deskt
 
 Linea de texto agregada desde el editor Markdown de Typora.
 
-Línea de texto agregada desde Visual Studio Code. Usando el pluggin de GitHub.
+Línea de texto agregada desde Visual Studio Code. Usando el plugin de GitHub.
